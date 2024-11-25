@@ -460,3 +460,5 @@ kolektiva.social
 transfem.social
 alaskan.social
 tenforward.social
+packmates.org
+*.nano.lgbt
