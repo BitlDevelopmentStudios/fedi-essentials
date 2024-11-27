@@ -4,6 +4,4 @@ pony.social
 equestria.social
 hooves.social
 mastodon.gamedev.place
-fedi.system64.dev
-social.nano.lgbt
 koko.micenest.xyz
