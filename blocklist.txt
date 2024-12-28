@@ -462,3 +462,5 @@ alaskan.social
 tenforward.social
 packmates.org
 *.nano.lgbt
+tech.lgbt
+woem.men
