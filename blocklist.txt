@@ -464,3 +464,5 @@ packmates.org
 *.nano.lgbt
 tech.lgbt
 woem.men
+translunar.academy
+xenofem.me
