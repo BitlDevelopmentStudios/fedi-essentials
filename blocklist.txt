@@ -466,3 +466,6 @@ tech.lgbt
 woem.men
 translunar.academy
 xenofem.me
+sharkey.everypizza.im
+cutiepaws.org
+fosstodon.org
