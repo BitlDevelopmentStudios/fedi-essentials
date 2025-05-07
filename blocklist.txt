@@ -470,3 +470,7 @@ sharkey.everypizza.im
 cutiepaws.org
 fosstodon.org
 baise-moi.top
+puppyspace.org
+*.everypizza.im
+gimmeloli.cc
+social.zooey.cat
