@@ -5,4 +5,4 @@ equestria.social
 hooves.social
 mastodon.gamedev.place
 see.micenest.xyz
-alicorn.social
+alicorn.space
